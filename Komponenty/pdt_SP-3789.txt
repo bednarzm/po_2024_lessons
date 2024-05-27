@@ -1,0 +1,13 @@
+Antoni Roczek;12:17:00;12:22:00;0:5;W;Witold Nowowiejski;
+Antoni Roczek;12:29:00;12:39:00;0:10;W;Witold Nowowiejski;
+Antoni Roczek;12:45:00;12:52:00;0:7;W;Witold Nowowiejski;
+Kamil Gula;13:44:00;13:45:00; 0:1;W;Witold Nowowiejski;
+Kamil Gula;13:45:00;13:47:00; 0:2;W;Witold Nowowiejski;
+Kamil Gula;13:59:00;14:45:00;0:46;W;Witold Nowowiejski;
+Kamil Gula;14:50:00;15:17:00; 0:27 ;W;Witold Nowowiejski;
+Krzysztof Malicki;15:50:00;16:40:00;0:50;S;16:01:00;Piotr Stewa;
+Krzysztof Malicki;16:50:00;17:06:00;0:16;S;17:02:00;Piotr Stewa;
+Agata Kulesza;17:25:00;17:31:00;0:6;W;Karol Wojciechowski;
+Agata Kulesza;17:35:00;17:39:00;0:4;W;Karol Wojciechowski;
+Agata Kulesza;17:44:00;17:49:00;0:5;W;Karol Wojciechowski;
+Agata Kulesza;17:58:00;18:06:00;0:8;W;Karol Wojciechowski;

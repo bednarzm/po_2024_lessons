@@ -1,0 +1,18 @@
+Alicja Bednarz;10:17:00;10:23:00;0: 6 ;W;Tomasz Rudny;
+Alicja Bednarz;10:25:00;10:30:00;0:5;W;Tomasz Rudny;
+Alicja Bednarz;10:35:00;10:32:00;0:3;W;Tomasz Rudny;
+Alicja Bednarz;10:37:00;10:42:00;0: 5 ;W;Tomasz Rudny;
+Alicja Bednarz;10:45:00;11:23:00;0:38;W;Tomasz Rudny;
+Monika Lisowska;13:21:00;13:26:00;0:6;W;Tomasz Rudny;
+Monika Lisowska;13:28:00;13:33:00;0:6;W;Tomasz Rudny;
+Monika Lisowska;13:38:00;13:42:00;0:6;W;Tomasz Rudny;
+Monika Lisowska;14:55:00;15:15:00;0:6;S;15:05:00;Jacek Kubiak;
+Monika Lisowska;15:30:00;15:22:00;0:8;S;15:05:00;Jacek Kubiak;
+Monika Lisowska;15:38:00;15:57:00;0:6;S;15:50:00;Jacek Kubiak;
+Adam Taran;16:01:00;16:03:00;0:3;W;Tomasz Rudny;
+Adam Taran;16:05:00;16:07:00;0:2 ;W;Tomasz Rudny;
+Adam Taran;16:22:00;16:42:00;0:20;W;Tomasz Rudny;
+Adam Taran;16:48:00;16:46:00;0:2;W;Tomasz Rudny;
+Adam Taran;17:02:00;16:58:00;0:4;W;Tomasz Rudny;
+Adam Taran;17:05:00;17:01:00;0:4 ;W;Tomasz Rudny;
+Adam Taran;17:35:00;17:30:00;0:5;W;Tomasz Rudny;
